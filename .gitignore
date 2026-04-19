@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.pytest_cache/
+.coverage
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Data files (never commit raw data)
+backend/data/*.csv
+backend/data/*.json
+!backend/data/README.md
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Claude Code metadata
+.claude/

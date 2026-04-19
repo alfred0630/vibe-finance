@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+duckdb
+pandas
+numpy
+google-genai
+pydantic
+pydantic-settings
+python-dotenv
