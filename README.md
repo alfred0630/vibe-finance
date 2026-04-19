@@ -4,6 +4,13 @@
 
 ![status](https://img.shields.io/badge/status-demo-10b981) ![python](https://img.shields.io/badge/python-3.11-3776ab) ![next](https://img.shields.io/badge/next.js-14-000000) ![gemini](https://img.shields.io/badge/gemini-2.5%20flash-4285f4) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
+## Screenshots
+
+
+![Main dashboard](./docs/screenshot-main.png)
+![Parsed parameters panel](./docs/screenshot-params.png)
+
+
 ## Why
 
 Most "AI finance assistants" are black boxes: you ask a question, you get an answer, and you have no idea how your intent was interpreted. **Vibe Finance** takes a different approach — every natural language query is first parsed into an editable, structured parameter panel that you can verify and tweak before anything runs. The LLM is a parser, not an oracle.
